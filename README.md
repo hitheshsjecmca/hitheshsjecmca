@@ -62,28 +62,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 🍽 TastyGo
-
-A Restaurant Food Ordering and Management System built using
-
-- PHP
-- MySQL
-- HTML
-- CSS
-- JavaScript
-
-Features
-
-- User Authentication
-- Restaurant Menu
-- Cart
-- Order Management
-- Admin Dashboard
-
----
-
 ## 📫 Reach Me
 
 📧 Email: hitheshsjecmca@gmail.com
