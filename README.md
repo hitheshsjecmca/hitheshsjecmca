@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Hithesh
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=MCA+Student;Aspiring+Software+Engineer;Backend+Developer;Python+%7C+C+%7C+PHP+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=MCA+Student;Aspiring+Software+Engineer;Backend+Developer;Python+%7C+C+%7C+PHP+Developer;" />
 </p>
 
 ---
@@ -16,8 +16,7 @@
 - Web Development
 - Data Structures & Algorithms
 - Database Management
-- System Design
-- Government Technical Careers (NIC, CDAC, DRDO, ISRO)
+- Python
 
 🚀 I enjoy building real-world applications and continuously improving my programming skills.
 
@@ -119,13 +118,11 @@ Features
 
 ## 📫 Reach Me
 
-📧 Email: yourmail@gmail.com
+📧 Email: hitheshsjecmca@gmail.com
 
 💼 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://linkedin.com/in/hitheshysalian
 
-🌐 Portfolio:
-Coming Soon
 
 ---
 
