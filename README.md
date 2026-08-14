@@ -72,6 +72,4 @@ https://linkedin.com/in/hitheshysalian
 
 ---
 
-## ⚡ Fun Fact
 
-> I enjoy solving coding problems and building projects that solve real-world problems.
