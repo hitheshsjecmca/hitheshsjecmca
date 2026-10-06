@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Hithesh
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=MCA+Student;Aspiring+Software+Engineer;Backend+Developer;Python+%7C+C+%7C+PHP+Developer;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=MCA+Student;Aspiring+Software+Engineer;Backend+Developer;Python+PHP+Developer;" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ## 🌱 Currently Learning
 
 - Python
-- C Programming
+- Java
 - SQL
 - PHP
 - Git & GitHub
@@ -38,7 +38,6 @@
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
